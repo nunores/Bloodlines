@@ -1,15 +1,30 @@
-# DDJD-E BLOODLINES
+# FEUP-DDJD (Desenho e Desenvolvimento de Jogos Digitais)
+## GROUP E - BLOODLINES
 
-## Developed By Group E1
-| Name                    | Role           | Number    | E-Mail               |
-| ------------------------| -------------- | --------- | ------------------   |
-| Luís Afonso             | Developer      | 201406189 | up201406189@edu.fe.up.pt |
-| Nuno Oliveira           | Developer      | 201806525 | up201806525@edu.fe.up.pt |
-| Claudio Savelli         | Developer      | 20211375  | up20211375@edu.fe.up.pt |
-| Nuno Resende            | Developer      |  | @edu.fe.up.pt |
-| Miguel Neves            | Developer      | 201608657 | up201608657@edu.fe.up.pt |
-| João Gonçalves          | Developer      |   | @edu.fe.up.pt |
-| Pedro Teixeira          | 3D Modeller    |  | @edu.fe.up.pt |
-| Gabriel Natan           | Sound Designer |  | @edu.fe.up.pt |
-| Pablo Nobrega           | Sound Designer |  | @edu.fe.up.pt |
-|           | Sound Designer |   | @edu.fe.up.pt |
+![Bloodlines trailer and demonstration](./docs/bloodlinesgif.gif)
+
+For this unit's project, we designed and developed a 3D soulslike game with Unity. All aspects including asset creation, sound design and development were made by our team.
+
+## Premise
+
+A knight, whose family castle was taken from them, sets on a quest to reconquer the huge castle filled with enemies. However, this is not an easy task, so if the knight fails, their descendants will take the mission upon themselves.
+
+## Members
+
+| Name | Role |
+| -------- | -------- |
+| João Gonçalves     | Developer     |
+| Nuno Resende     | Developer     |
+| Nuno Oliveira     | Developer     |
+| Claudio Savelli     | Developer     |
+| Rafael Afonso     | Developer     |
+| Miguel Neves     | Developer     |
+| Pedro Teixeira     | 3D Modeller     |
+| Gabriel Natan     | Sound Designer     |
+| Pablo Nobrega     | Sound Designer     |
+
+
+## Instructions and Controls
+Download the game from: https://claudiosavelli.itch.io/bloodlines
+
+![Controls instructions](./docs/controls%20image.png)
